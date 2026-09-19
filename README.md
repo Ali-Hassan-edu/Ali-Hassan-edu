@@ -121,78 +121,11 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ==================== FEATURED PROJECTS ==================== -->
-## 🌟 Featured Projects
 
-### 🎓 Alumni-connect
 
-**Tech Stack:** TypeScript, <!-- TODO: add the rest -->______
 
-<!-- TODO: 2–3 sentences. What does it do, who is it for, what problem does it solve? -->
-______
 
-**Highlights:**
-- <!-- TODO -->______
-- <!-- TODO -->______
-- <!-- TODO -->______
 
-🔗 [Repository](https://github.com/Ali-Hassan-edu/Alumni-connect)
-
----
-
-### 💼 my-portfolio
-
-**Tech Stack:** JavaScript, <!-- TODO: add the rest -->______
-
-<!-- TODO: 2–3 sentences -->
-______
-
-**Highlights:**
-- <!-- TODO -->______
-- <!-- TODO -->______
-
-🔗 [Repository](https://github.com/Ali-Hassan-edu/my-portfolio) · [Live Site](https://aliofficial.me)
-
----
-
-<!--
-  TODO: Add 2 to 4 more of your best repos using the block below.
-
-### 🔹 Project Name
-
-**Tech Stack:** ______
-
-Description.
-
-**Highlights:**
-- ______
-- ______
-
-🔗 [Repository](url) · [Live Demo](url)
-
----
--->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ==================== EXPERIENCE ==================== -->
-## 💼 Experience
-
-### Hands-on Development Projects
-**University &amp; Personal Work** · <!-- TODO: date range -->____ – Present
-
-- <!-- TODO -->______
-- <!-- TODO -->______
-- <!-- TODO -->______
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ==================== GITHUB STATS ==================== -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Hassan-edu&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Ali Hassan's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hassan-edu&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Ali-Hassan-edu&hide_border=true&theme=tokyonight" alt="GitHub streak" />
