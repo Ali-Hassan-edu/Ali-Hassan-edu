@@ -6,26 +6,26 @@
 -->
 <!-- <p align="center"><img src="banner.png" alt="Ali Hassan - Mobile App Developer" width="100%" /></p> -->
 
-<h1 align="center">Hi 👋, I'm Ali Hassan</h1>
+<h1 align="center">Ali Hassan</h1>
 
 <p align="center">
-  Mobile App Developer &nbsp;|&nbsp; Full Stack Developer &nbsp;|&nbsp; AI Integrations &amp; Automation
+  <b>Mobile App Developer</b> · <b>Full Stack Developer</b> · <b>AI Integrations &amp; Automation</b>
 </p>
 
 <p align="center">
-  I build cross-platform mobile apps, full-stack web platforms, and AI-powered tools —
-  focused on solving real problems with clean, maintainable code.
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=3FCF8E&center=true&vCenter=true&width=600&lines=Flutter+%26+React+Native+for+mobile;React%2C+Node.js+%26+Express+for+the+web;AI-powered+tools+with+Gemini%2C+Groq+%26+Whisper" alt="What I work with" />
 </p>
 
 <p align="center">
-  🎓 Software Engineering student (expected June 2027)
-  &nbsp;·&nbsp;
-  🌐 <a href="https://aliofficial.me">aliofficial.me</a>
+  Cross-platform mobile apps, full-stack web platforms and AI-powered tools —<br />
+  built to solve real problems with clean, maintainable code.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Ali-Hassan-edu?tab=followers"><img src="https://img.shields.io/github/followers/Ali-Hassan-edu?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" alt="Followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Ali-Hassan-edu&style=for-the-badge&color=blue" alt="Profile views" />
+  <a href="https://aliofficial.me"><img src="https://img.shields.io/badge/Portfolio-aliofficial.me-0d1117?style=flat-square&logo=vercel&logoColor=white&labelColor=161b22" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ali-hassan-45b9b53b0/"><img src="https://img.shields.io/badge/LinkedIn-Ali%20Hassan-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn" /></a>
+  <a href="mailto:raoali.edu@gmail.com"><img src="https://img.shields.io/badge/Email-raoali.edu%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Software%20Engineering-Class%20of%202027-8957e5?style=flat-square&labelColor=161b22" alt="Software Engineering, class of 2027" />
 </p>
 
 <br />
